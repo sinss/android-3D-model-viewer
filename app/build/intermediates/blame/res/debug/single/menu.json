@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/leo.chang/Documents/android-3D-model-viewer/app/build/intermediates/res/merged/debug/menu/menu.xml",
+        "source": "/Users/leo.chang/Documents/android-3D-model-viewer/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/Users/leo.chang/Documents/android-3D-model-viewer/app/build/intermediates/res/merged/debug/menu/model.xml",
+        "source": "/Users/leo.chang/Documents/android-3D-model-viewer/app/src/main/res/menu/model.xml"
+    },
+    {
+        "merged": "/Users/leo.chang/Documents/android-3D-model-viewer/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/leo.chang/Documents/android-3D-model-viewer/app/src/main/res/menu/main.xml"
+    }
+]

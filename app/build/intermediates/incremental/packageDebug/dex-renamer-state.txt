@@ -1,0 +1,7 @@
+#Wed Apr 11 22:58:32 CST 2018
+base.0=/Users/leo.chang/Documents/android-3D-model-viewer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7c2ed337b9010df569be6719e565846b2e021b24
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/leo.chang/Documents/android-3D-model-viewer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fba17d34f0fa5d8c309cba0bed86dde079603720/classes.dex
+base.1=/Users/leo.chang/Documents/android-3D-model-viewer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fba17d34f0fa5d8c309cba0bed86dde079603720
+file.0=/Users/leo.chang/Documents/android-3D-model-viewer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7c2ed337b9010df569be6719e565846b2e021b24/classes.dex

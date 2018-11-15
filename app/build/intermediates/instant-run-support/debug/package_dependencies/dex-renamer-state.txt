@@ -1,0 +1,7 @@
+#Wed Apr 11 22:57:18 CST 2018
+base.0=/Users/leo.chang/Documents/android-3D-model-viewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.5_3115c9b7cd8562932d8177dd81f161862e32e3d9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/leo.chang/Documents/android-3D-model-viewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_372775cef14e7b3935dae2589f1d3eef8e2863ed/classes.dex
+base.1=/Users/leo.chang/Documents/android-3D-model-viewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_372775cef14e7b3935dae2589f1d3eef8e2863ed
+file.0=/Users/leo.chang/Documents/android-3D-model-viewer/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.5_3115c9b7cd8562932d8177dd81f161862e32e3d9/classes.dex

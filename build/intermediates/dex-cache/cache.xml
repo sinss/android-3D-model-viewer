@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/leo.chang/Documents/android-3D-model-viewer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cd96a3a8136097c033b107d31569fb19b1b20ab">
+        <dex dex="/Users/leo.chang/Documents/android-3D-model-viewer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7c2ed337b9010df569be6719e565846b2e021b24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/leo.chang/Documents/android-3D-model-viewer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/Users/leo.chang/Documents/android-3D-model-viewer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fba17d34f0fa5d8c309cba0bed86dde079603720/classes.dex" />
+    </item>
+
+</items>
